@@ -1,0 +1,234 @@
+[
+  {
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/Behold1.mp3",
+  "new": "yes"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/FatIdiotsDontListen.mp3",
+  "new": "yes"
+  
+},
+{
+  "faceSrc": "./assets/images/fatty-5.png",
+  "src": "./assets/sounds/FatPig.mp3",
+  "new": "yes"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/FatPigWeightLossSystem.mp3",
+  "new": "yes"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/FatPigWomen.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/FattestDumbest.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/Fuck-1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/Fuck-2.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-4.png",
+  "src": "./assets/sounds/Fuck-3.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/Fuck-4.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/Fuck-5.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/FullProofIdiotProof.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/Fuuck.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-5.png",
+  "src": "./assets/sounds/HeyFatty1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-4.png",
+  "src": "./assets/sounds/IdiotProof.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/IdiotProof-2.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/IDontCare.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/LetsBegin.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-5.png",
+  "src": "./assets/sounds/Minimum-1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/Minimum-2.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/Minimum-3.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/Minimum-4.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/Minimum-5.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/Minimum-6.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/Minimum-7.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-4.png",
+  "src": "./assets/sounds/Motherfucker.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/NoFuckEat.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/Number-1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/Number-2.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-5.png",
+  "src": "./assets/sounds/ok-1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/ok-2.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/SimpleAsShit.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-5.png",
+  "src": "./assets/sounds/StopEating-1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/StupidityProof.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-4.png",
+  "src": "./assets/sounds/UntilNextTime-1.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/WeighYourFatFuckingCunt.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/YouFatDumbPig.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/YouFatFuckingPig.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/YouFatMotherfuckers.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-3.png",
+  "src": "./assets/sounds/YouFatPig.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-4.png",
+  "src": "./assets/sounds/YouFatPig-2.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-5.png",
+  "src": "./assets/sounds/YouFatStupidPig.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/YouFuckingDummy.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-6.png",
+  "src": "./assets/sounds/YouFuckingFatIdiots.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-2.png",
+  "src": "./assets/sounds/YouIdiot.mp3",
+  "new": "no"
+},
+{
+  "faceSrc": "./assets/images/fatty-1.png",
+  "src": "./assets/sounds/YouIdiots.mp3",
+  "new": "no"
+}
+]
+
