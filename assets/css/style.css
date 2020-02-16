@@ -103,14 +103,15 @@ footer a:hover {
 
 @media (min-width: 576px) {
   body {
-    background: blue;
+    /* background: blue; */
   }
 }
 
 
+/*IPAD*/
 @media (min-width: 768px) {
   body {
-    background: pink;
+    background: black;
   }
  }
 
