@@ -8,7 +8,7 @@ $(function() {
   
 
 
-  $.getJSON("assets/js/sounds.json", function(json) {
+  $.getJSON("./assets/js/sounds.json", function(json) {
     // console.log(json); // this will show the info it in firebug 
 
    
