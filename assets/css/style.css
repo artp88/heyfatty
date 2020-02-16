@@ -138,6 +138,11 @@ footer a:hover {
   body {
     background: black;
   }
+
+  h1 {
+    font-size: 11rem;
+    line-height: 9rem;
+  }
  }
 
 
